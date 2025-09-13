@@ -52,7 +52,9 @@ here is a little solver for you if you dont want to think
 
 ## Step 6 - Gold Bonus Stages
 Punching changes all slots
-Else you can change the slots by playing bonus Stages
+You canlock the slots by playing the bonus Stage thing the corisponding slot.
+
+You can reset by re-entering the Layer
 
 - Slot 1, Mountain Peak
 - Slot 2, West Islet

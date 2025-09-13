@@ -49,3 +49,14 @@ So you dont have to transform having the transformation highlighted is all you n
 
 here is a little solver for you if you dont want to think
 [Solver](code/solver.py)
+
+## Step 6 - Gold Bonus Stages
+Punching changes all slots
+Else you can change the slots by playing bonus Stages
+
+- Slot 1, Mountain Peak
+- Slot 2, West Islet
+- Slot 3, Banandiumtone's Floating Islet (near the puzzle itself)
+- Slot 4, Cave above a waterfall
+- Slot 5, The ship
+- Slot 6, Beach cave under a cabin

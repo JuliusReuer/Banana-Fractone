@@ -25,3 +25,27 @@ This step requires motion controls:
 - Punch with your left Joy-Con → increases the left counter
 - Punch with your right Joy-Con → increases the right counter
 - Continue until both counters reach 77.
+
+## Step 3 – Next & Lock
+
+Punch to cycle through to the next number.
+Use your sonar to lock in the current number, then move on to the next of the three numbers.
+
+## Step 4 - Directions
+
+if you punch the Fractone from different directions you cycle trou different numbers
+
+## Step 5 - Solve the Code
+
+So you dont have to transform having the transformation highlighted is all you need.
+
+|Transformation|1|2|3|4|5|
+|---|---|---|---|---|---|
+|Kong|1|1|0|0|1|
+|Zebra|1|1|1|0|0|
+|Ostrich|1|0|0|0|1|
+|Snake|0|0|1|1|1|
+|Elefant|1|0|0|1|1|
+
+here is a little solver for you if you dont want to think
+[Solver](code/solver.py)
